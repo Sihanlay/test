@@ -1,3 +1,3 @@
-module awesomeProject5
+module github.com/Sihanlay/test
 
 go 1.20
